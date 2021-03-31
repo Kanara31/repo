@@ -1,0 +1,32 @@
+    1  mkdir k
+    2  mkdir h
+    3  mkdir h friend nnh
+    4  mkdir hh friend nnh nhn hhk tgf gtg
+    5  rm -r k/ h/ friend/
+    6  rm -r nnh/ hh/ nhn/ hhk/ tgf/ gtg/ 
+    7  mkdir newproject
+    8  cd newproject/
+    9  cd ..
+   10  cd newproject/
+   11  mkdir npr
+   12  practice.sql
+   13  touch practice.sql
+   14  abc.txt
+   15  touch abc.txt
+   16  phyton.ipnyp
+   17  touch phyton.ipnyp
+   18  rm phyton.ipnyp 
+   19  touch python.ipnyp
+   20  cat abc.txt
+   21  ls
+   22  pwd
+   23  notepad practice.sql
+   24  cat
+   25  cat abc.txt 
+   26  cat practice.sql 
+   27  nano python.ipnyp 
+   28  nano python.ipnyp 
+   29  cat python.ipnyp 
+   30  history
+   31  history > abc.txt 
+bu bir metndir
